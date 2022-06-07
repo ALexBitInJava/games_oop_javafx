@@ -33,6 +33,6 @@ public class BishopBlackTest extends TestCase {
     @Test
     public void testBishopBlackDiagonal() {
         BishopBlack newFigure = new BishopBlack(Cell.C1);
-        newFigure.way(Cell.G4);
+        newFigure.way(Cell.G5);
     }
 }
