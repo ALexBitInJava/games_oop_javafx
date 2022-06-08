@@ -8,7 +8,7 @@ import ru.job4j.chess.firuges.Figure;
 import static org.hamcrest.core.Is.is;
 import static org.junit.Assert.assertThat;
 
-public class BishopBlackTest extends TestCase {
+public class BishopBlackTest {
 
     @Test
     public void testBishopBlackPosition() {
